@@ -1,0 +1,50 @@
+/* Program structure
+Like C++, C# is case-sensitive. Semi colon (;) is the statement separator. Unlike C++, there are no separate declaration (header) and implementation (CPP) files in C#. All code (class declaration and implementation) is placed in one file with extension cs.
+
+Have a look at this Hello world program in C#. */
+
+//Code Example
+
+using System;
+
+namespace MyNameSpace
+
+{
+
+class HelloWorld
+
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine ("Hello World");
+     }
+}
+
+}
+
+/*
+Everything in C# is packed into a class and classes in C# are packed into namespaces (just like files in a folder). Like C++, a main method is the entry point of your program. C++'s main function is called main whereas C#'s main function starts with capital M and is named as Main.
+
+No need to put a semi colon after a class block or struct definition. It was in C++, C# doesn't require that. */
+
+
+/*
+Namespace
+Every class is packaged into a namespace. Namespaces are exactly the same concept as in C++, but in C# we use namespaces more frequently than in C++. You can access a class in a namespace using dot (.) qualifier. MyNameSpace is the namespace in hello world program above.
+
+Now consider you want to access the HelloWorld class from some other class in some other namespace.*/
+
+//Example
+
+using System;
+namespace AnotherNameSpace
+{    
+    class AnotherClass
+    {
+        public void Func()
+        {
+            Console.WriteLine ("Hello World");
+        }
+    }
+}
+
