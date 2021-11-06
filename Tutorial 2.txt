@@ -170,3 +170,63 @@ public unsafe MyFunction( int * pInt, double* pDouble)
     ...
     *pDouble = 8.9;    
 }
+
+
+/*
+
+Interfaces
+If you have an idea of COM, you will immediately know what I am talking about. An interface is the abstract base class containing only the function signatures whose implementation is provided by the child class. In C#, you define such classes as interfaces using the interface keyword. .NET is based on such interfaces. In C#, where you can't use multiple class inheritance, which was previously allowed in C++, the essence of multiple inheritance is achieved through interfaces. That's your child class may implement multiple interfaces.
+
+*/
+
+using System;
+interface myDrawing
+{
+    int originx
+    {
+        get;
+        set;
+    }
+    int originy
+    {
+        get;
+        set;
+    }
+    void Draw(object shape);            
+}
+
+class Shape: myDrawing
+{
+    int OriX;
+    int OriY;
+    
+    public int originx
+    {
+        get{
+            return OriX;
+        }
+        set{
+            OriX = value;
+        }
+    }
+    public int originy
+    {
+        get{
+            return OriY;
+        }
+        set{
+            OriY = value;
+        }
+    }
+    public void Draw(object shape)
+    {
+        ... // do something 
+    }
+    
+    // class's own method
+    public void MoveShape(int newX, int newY)
+    {
+    .....
+    }        
+    
+}
