@@ -144,3 +144,29 @@ class MyClass
     }
     
 }
+
+/*
+sealed
+sealed modifier with a class don't let you derive any class from it. So you use this sealed keyword for the classes which you don't want to be inherited from.
+*/
+
+sealed class CanNotbeTheParent
+{
+    int a = 5;
+}
+
+/*
+
+unsafe
+You can define an unsafe context in C# using unsafe modifier. In unsafe context, you can write an unsafe code, example: C++ pointers etc. See the following code:
+
+*/
+
+public unsafe MyFunction( int * pInt, double* pDouble)
+{
+    int* pAnotherInt = new int;
+    *pAnotherInt  = 10;
+    pInt = pAnotherInt;
+    ...
+    *pDouble = 8.9;    
+}
