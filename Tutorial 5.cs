@@ -79,3 +79,21 @@ For iteration of collections like arrays etc.
 
 foreach (string s in array)
     Console.WriteLine(s);
+
+/*
+lock
+Used in threads for locking a block of code making it a critical section.
+
+checked/unchecked
+The statements are for overflow checking in numeric operations.
+*/
+//Example:
+
+int x = Int32.MaxValue; x++; // Overflow checked 
+{ 
+x++; // Exception 
+}
+unchecked
+{
+x++; // Overflow}
+}
