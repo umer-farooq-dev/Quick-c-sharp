@@ -1,0 +1,7 @@
+E:\Taskks c#\TaskProgram\TaskProgram\obj\Debug\TaskProgram.csprojAssemblyReference.cache
+E:\Taskks c#\TaskProgram\TaskProgram\obj\Debug\TaskProgram.csproj.CoreCompileInputs.cache
+E:\Taskks c#\TaskProgram\TaskProgram\bin\Debug\TaskProgram.exe.config
+E:\Taskks c#\TaskProgram\TaskProgram\bin\Debug\TaskProgram.exe
+E:\Taskks c#\TaskProgram\TaskProgram\bin\Debug\TaskProgram.pdb
+E:\Taskks c#\TaskProgram\TaskProgram\obj\Debug\TaskProgram.exe
+E:\Taskks c#\TaskProgram\TaskProgram\obj\Debug\TaskProgram.pdb
