@@ -1,0 +1,7 @@
+F:\C# Program\SwitchProgram\SwitchProgram\bin\Debug\SwitchProgram.exe.config
+F:\C# Program\SwitchProgram\SwitchProgram\bin\Debug\SwitchProgram.exe
+F:\C# Program\SwitchProgram\SwitchProgram\bin\Debug\SwitchProgram.pdb
+F:\C# Program\SwitchProgram\SwitchProgram\obj\Debug\SwitchProgram.csprojAssemblyReference.cache
+F:\C# Program\SwitchProgram\SwitchProgram\obj\Debug\SwitchProgram.csproj.CoreCompileInputs.cache
+F:\C# Program\SwitchProgram\SwitchProgram\obj\Debug\SwitchProgram.exe
+F:\C# Program\SwitchProgram\SwitchProgram\obj\Debug\SwitchProgram.pdb
