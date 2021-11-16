@@ -1,0 +1,17 @@
+F:\DarkYoutube\DarkYoutube\bin\Debug\DarkYoutube.exe.config
+F:\DarkYoutube\DarkYoutube\bin\Debug\DarkYoutube.exe
+F:\DarkYoutube\DarkYoutube\bin\Debug\DarkYoutube.pdb
+F:\DarkYoutube\DarkYoutube\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\DarkYoutube\DarkYoutube\bin\Debug\Telerik.WinControls.dll
+F:\DarkYoutube\DarkYoutube\bin\Debug\Telerik.WinControls.UI.dll
+F:\DarkYoutube\DarkYoutube\bin\Debug\TelerikCommon.dll
+F:\DarkYoutube\DarkYoutube\bin\Debug\Telerik.WinControls.xml
+F:\DarkYoutube\DarkYoutube\bin\Debug\Telerik.WinControls.UI.xml
+F:\DarkYoutube\DarkYoutube\obj\x86\Debug\DarkYoutube.csprojAssemblyReference.cache
+F:\DarkYoutube\DarkYoutube\obj\x86\Debug\DarkYoutube.RadForm1.resources
+F:\DarkYoutube\DarkYoutube\obj\x86\Debug\DarkYoutube.Properties.Resources.resources
+F:\DarkYoutube\DarkYoutube\obj\x86\Debug\DarkYoutube.csproj.GenerateResource.cache
+F:\DarkYoutube\DarkYoutube\obj\x86\Debug\DarkYoutube.csproj.CoreCompileInputs.cache
+F:\DarkYoutube\DarkYoutube\obj\x86\Debug\DarkYoutube.csproj.CopyComplete
+F:\DarkYoutube\DarkYoutube\obj\x86\Debug\DarkYoutube.exe
+F:\DarkYoutube\DarkYoutube\obj\x86\Debug\DarkYoutube.pdb
