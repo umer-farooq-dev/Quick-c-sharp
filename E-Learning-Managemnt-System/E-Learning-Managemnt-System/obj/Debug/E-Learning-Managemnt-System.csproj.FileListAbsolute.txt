@@ -1,0 +1,11 @@
+C:\Users\Return_0\Desktop\E-Learning-Managemnt-System\E-Learning-Managemnt-System\bin\Debug\E-Learning-Managemnt-System.exe.config
+C:\Users\Return_0\Desktop\E-Learning-Managemnt-System\E-Learning-Managemnt-System\bin\Debug\E-Learning-Managemnt-System.exe
+C:\Users\Return_0\Desktop\E-Learning-Managemnt-System\E-Learning-Managemnt-System\bin\Debug\E-Learning-Managemnt-System.pdb
+C:\Users\Return_0\Desktop\E-Learning-Managemnt-System\E-Learning-Managemnt-System\obj\Debug\E-Learning-Managemnt-System.csprojAssemblyReference.cache
+C:\Users\Return_0\Desktop\E-Learning-Managemnt-System\E-Learning-Managemnt-System\obj\Debug\E_Learning_Managemnt_System.Dashboard.resources
+C:\Users\Return_0\Desktop\E-Learning-Managemnt-System\E-Learning-Managemnt-System\obj\Debug\E_Learning_Managemnt_System.Form1.resources
+C:\Users\Return_0\Desktop\E-Learning-Managemnt-System\E-Learning-Managemnt-System\obj\Debug\E_Learning_Managemnt_System.Properties.Resources.resources
+C:\Users\Return_0\Desktop\E-Learning-Managemnt-System\E-Learning-Managemnt-System\obj\Debug\E-Learning-Managemnt-System.csproj.GenerateResource.cache
+C:\Users\Return_0\Desktop\E-Learning-Managemnt-System\E-Learning-Managemnt-System\obj\Debug\E-Learning-Managemnt-System.csproj.CoreCompileInputs.cache
+C:\Users\Return_0\Desktop\E-Learning-Managemnt-System\E-Learning-Managemnt-System\obj\Debug\E-Learning-Managemnt-System.exe
+C:\Users\Return_0\Desktop\E-Learning-Managemnt-System\E-Learning-Managemnt-System\obj\Debug\E-Learning-Managemnt-System.pdb
