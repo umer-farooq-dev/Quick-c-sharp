@@ -1,0 +1,15 @@
+C:\Users\Return_0\Desktop\ShoppingApp\ShoppingApp\bin\Debug\ShoppingApp.exe.config
+C:\Users\Return_0\Desktop\ShoppingApp\ShoppingApp\bin\Debug\ShoppingApp.exe
+C:\Users\Return_0\Desktop\ShoppingApp\ShoppingApp\bin\Debug\ShoppingApp.pdb
+C:\Users\Return_0\Desktop\ShoppingApp\ShoppingApp\obj\Debug\ShoppingApp.csprojAssemblyReference.cache
+C:\Users\Return_0\Desktop\ShoppingApp\ShoppingApp\obj\Debug\ShoppingApp.AirPhone.resources
+C:\Users\Return_0\Desktop\ShoppingApp\ShoppingApp\obj\Debug\ShoppingApp.Form1.resources
+C:\Users\Return_0\Desktop\ShoppingApp\ShoppingApp\obj\Debug\ShoppingApp.LeaderPurse.resources
+C:\Users\Return_0\Desktop\ShoppingApp\ShoppingApp\obj\Debug\ShoppingApp.MobileCover.resources
+C:\Users\Return_0\Desktop\ShoppingApp\ShoppingApp\obj\Debug\ShoppingApp.Properties.Resources.resources
+C:\Users\Return_0\Desktop\ShoppingApp\ShoppingApp\obj\Debug\ShoppingApp.Watch.resources
+C:\Users\Return_0\Desktop\ShoppingApp\ShoppingApp\obj\Debug\ShoppingApp.csproj.GenerateResource.cache
+C:\Users\Return_0\Desktop\ShoppingApp\ShoppingApp\obj\Debug\ShoppingApp.csproj.CoreCompileInputs.cache
+C:\Users\Return_0\Desktop\ShoppingApp\ShoppingApp\obj\Debug\ShoppingApp.exe
+C:\Users\Return_0\Desktop\ShoppingApp\ShoppingApp\obj\Debug\ShoppingApp.pdb
+C:\Users\Return_0\Desktop\ShoppingApp\ShoppingApp\bin\Debug\my.wav
