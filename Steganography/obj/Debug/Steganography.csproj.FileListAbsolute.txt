@@ -1,0 +1,10 @@
+E:\Git\Steganography\bin\Debug\Steganography.exe
+E:\Git\Steganography\bin\Debug\Steganography.pdb
+E:\Git\Steganography\obj\Debug\Steganography.csprojAssemblyReference.cache
+E:\Git\Steganography\obj\Debug\Steganography.Form1.resources
+E:\Git\Steganography\obj\Debug\Steganography.ImgPreview.resources
+E:\Git\Steganography\obj\Debug\Steganography.Properties.Resources.resources
+E:\Git\Steganography\obj\Debug\Steganography.csproj.GenerateResource.cache
+E:\Git\Steganography\obj\Debug\Steganography.csproj.CoreCompileInputs.cache
+E:\Git\Steganography\obj\Debug\Steganography.exe
+E:\Git\Steganography\obj\Debug\Steganography.pdb
