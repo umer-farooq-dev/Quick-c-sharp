@@ -1,0 +1,41 @@
+E:\Git Projects\Bus-Ticket-Reservation-System\TicketReservation\obj\Debug\TicketReservation.csprojResolveAssemblyReference.cache
+E:\Git Projects\Bus-Ticket-Reservation-System\TicketReservation\obj\Debug\Testing.AdminPanel.resources
+E:\Git Projects\Bus-Ticket-Reservation-System\TicketReservation\obj\Debug\Testing.DeleteInfo.resources
+E:\Git Projects\Bus-Ticket-Reservation-System\TicketReservation\obj\Debug\Testing.ForJourney.resources
+E:\Git Projects\Bus-Ticket-Reservation-System\TicketReservation\obj\Debug\Testing.ForPayment.resources
+E:\Git Projects\Bus-Ticket-Reservation-System\TicketReservation\obj\Debug\Testing.Home.resources
+E:\Git Projects\Bus-Ticket-Reservation-System\TicketReservation\obj\Debug\Testing.Properties.Resources.resources
+E:\Git Projects\Bus-Ticket-Reservation-System\TicketReservation\obj\Debug\Testing.Ticket.resources
+E:\Git Projects\Bus-Ticket-Reservation-System\TicketReservation\obj\Debug\Testing.UpdateInfo.resources
+E:\Git Projects\Bus-Ticket-Reservation-System\TicketReservation\obj\Debug\Testing.UserPanel.resources
+E:\Git Projects\Bus-Ticket-Reservation-System\TicketReservation\obj\Debug\Testing.Home.af-NA.resources
+E:\Git Projects\Bus-Ticket-Reservation-System\TicketReservation\obj\Debug\TicketReservation.csproj.GenerateResource.Cache
+E:\Git Projects\Bus-Ticket-Reservation-System\TicketReservation\obj\Debug\TicketReservation.csproj.CoreCompileInputs.cache
+E:\Git Projects\Bus-Ticket-Reservation-System\TicketReservation\obj\Debug\Testing.exe
+E:\Git Projects\Bus-Ticket-Reservation-System\TicketReservation\obj\Debug\Testing.pdb
+E:\Git Projects\Bus-Ticket-Reservation-System\TicketReservation\bin\Debug\Testing.exe.config
+E:\Git Projects\Bus-Ticket-Reservation-System\TicketReservation\bin\Debug\Testing.exe.manifest
+E:\Git Projects\Bus-Ticket-Reservation-System\TicketReservation\bin\Debug\Testing.application
+E:\Git Projects\Bus-Ticket-Reservation-System\TicketReservation\bin\Debug\Testing.exe
+E:\Git Projects\Bus-Ticket-Reservation-System\TicketReservation\bin\Debug\Testing.pdb
+E:\Git Projects\Bus-Ticket-Reservation-System\TicketReservation\bin\Debug\af-NA\Testing.resources.dll
+E:\Git Projects\Bus-Ticket-Reservation-System\TicketReservation\bin\Debug\itextsharp.xml
+E:\Git Projects\Bus-Ticket-Reservation-System\TicketReservation\obj\Debug\af-NA\Testing.resources.dll
+E:\Git Projects\Bus-Ticket-Reservation-System\TicketReservation\obj\Debug\Testing.exe.manifest
+E:\Git Projects\Bus-Ticket-Reservation-System\TicketReservation\obj\Debug\Testing.application
+E:\Desktop Application Projects\Bus-Ticket-Reservation-System-master\Bus-Ticket-Reservation-System-master\TicketReservation\obj\Debug\TicketReservation.csprojAssemblyReference.cache
+E:\Desktop Application Projects\Bus-Ticket-Reservation-System-master\Bus-Ticket-Reservation-System-master\TicketReservation\obj\Debug\Testing.AdminPanel.resources
+E:\Desktop Application Projects\Bus-Ticket-Reservation-System-master\Bus-Ticket-Reservation-System-master\TicketReservation\obj\Debug\Testing.DeleteInfo.resources
+E:\Desktop Application Projects\Bus-Ticket-Reservation-System-master\Bus-Ticket-Reservation-System-master\TicketReservation\obj\Debug\Testing.ForJourney.resources
+E:\Desktop Application Projects\Bus-Ticket-Reservation-System-master\Bus-Ticket-Reservation-System-master\TicketReservation\obj\Debug\Testing.ForPayment.resources
+E:\Desktop Application Projects\Bus-Ticket-Reservation-System-master\Bus-Ticket-Reservation-System-master\TicketReservation\obj\Debug\Testing.Home.resources
+E:\Desktop Application Projects\Bus-Ticket-Reservation-System-master\Bus-Ticket-Reservation-System-master\TicketReservation\obj\Debug\Testing.Properties.Resources.resources
+E:\Desktop Application Projects\Bus-Ticket-Reservation-System-master\Bus-Ticket-Reservation-System-master\TicketReservation\obj\Debug\Testing.Ticket.resources
+E:\Desktop Application Projects\Bus-Ticket-Reservation-System-master\Bus-Ticket-Reservation-System-master\TicketReservation\obj\Debug\Testing.UpdateInfo.resources
+E:\Desktop Application Projects\Bus-Ticket-Reservation-System-master\Bus-Ticket-Reservation-System-master\TicketReservation\obj\Debug\Testing.UserPanel.resources
+E:\Desktop Application Projects\Bus-Ticket-Reservation-System-master\Bus-Ticket-Reservation-System-master\TicketReservation\obj\Debug\Testing.Home.af-NA.resources
+E:\Desktop Application Projects\Bus-Ticket-Reservation-System-master\Bus-Ticket-Reservation-System-master\TicketReservation\obj\Debug\TicketReservation.csproj.GenerateResource.cache
+E:\Desktop Application Projects\Bus-Ticket-Reservation-System-master\Bus-Ticket-Reservation-System-master\TicketReservation\obj\Debug\TicketReservation.csproj.CoreCompileInputs.cache
+E:\Desktop Application Projects\Bus-Ticket-Reservation-System-master\Bus-Ticket-Reservation-System-master\TicketReservation\obj\Debug\af-NA\Testing.resources.dll
+E:\Desktop Application Projects\Bus-Ticket-Reservation-System-master\Bus-Ticket-Reservation-System-master\TicketReservation\obj\Debug\Testing.exe
+E:\Desktop Application Projects\Bus-Ticket-Reservation-System-master\Bus-Ticket-Reservation-System-master\TicketReservation\obj\Debug\Testing.pdb
